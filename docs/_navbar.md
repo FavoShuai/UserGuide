@@ -1,11 +1,12 @@
 * [首页](README)
 * AI小区驾驶舱指挥平台
-    * [平台](AIOperationSystem-Platform)
-    * [开发商](AIOperationSystem-Developer)
-    * [物业](AIOperationSystem-Property)
+    * [平台](AIOperationSystem-Web)
+    * [管理后台-开发商/物业](AIOperationSystem-Tenant)
+    * [管理后台-平台](AIOperationSystem-Platform)
 * 华贵生活
     * [华贵生活](App-User)
     * [华贵生活商家端](App-Shop)
     * [华贵生活物业端](App-Property)
-* 中南直供平台
-* 车位销控系统
+* 中南直供平台(DirectSupply)
+* 车位销控系统(SalesControlPlatform)
+* 演示流程与关联内容(Demo)
