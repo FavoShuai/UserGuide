@@ -1,4 +1,4 @@
-* [首页](README)
+* [首页](index)
 * AI小区驾驶舱指挥平台
     * [指挥平台](AIOperationSystem-Web)
     * [管理后台-开发商/物业](AIOperationSystem-Tenant)
