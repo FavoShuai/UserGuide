@@ -1,0 +1,21 @@
+# AI小区驾驶舱指挥平台
+---
+## AI小区安防
+### nbsp;nbsp;nbsp;1.周届防范报警
+### nbsp;nbsp;nbsp;2.应急事件报警
+### nbsp;nbsp;nbsp;3.消防占道报警
+### nbsp;nbsp;nbsp;4.易燃区域报警
+### nbsp;nbsp;nbsp;5.高空抛物报警
+### nbsp;nbsp;nbsp;6.电瓶车入梯报警
+### nbsp;nbsp;nbsp;7.五方通话报警
+### nbsp;nbsp;nbsp;8.重点设备房报警
+## 商业区域报警
+## 重点区域监控
+## 驾驶舱名称
+## 公告通知
+## 驾驶舱鸟瞰图/logo
+## AI报警
+## AI车辆管理
+## AI智能家居
+## 电子巡更
+## 报修

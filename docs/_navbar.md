@@ -1,6 +1,17 @@
 * [首页](index)
 * AI小区驾驶舱指挥平台
-    * [指挥平台](AIOperationSystem-Web)
+    * [A方案](AIOperationSystem-WebA)
+    * [B方案](AIOperationSystem-WebB)
+    * [C方案](AIOperationSystem-WebC)
+    * [D方案](AIOperationSystem-WebD)
+    * [E方案](AIOperationSystem-WebE)
+    * [F方案](AIOperationSystem-WebF)
+    * [G方案](AIOperationSystem-WebG)
+    * [H方案](AIOperationSystem-WebH)
+    * [I方案](AIOperationSystem-WebI)
+    * [J方案](AIOperationSystem-WebJ)
+    * [K方案](AIOperationSystem-WebK)
+* 管理后台
     * [管理后台-开发商/物业](AIOperationSystem-Tenant)
     * [管理后台-平台方](AIOperationSystem-Platform)
 * 华贵生活
