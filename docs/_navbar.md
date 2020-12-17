@@ -1,8 +1,8 @@
 * [首页](README)
 * AI小区驾驶舱指挥平台
-    * [平台](AIOperationSystem-Web)
+    * [指挥平台](AIOperationSystem-Web)
     * [管理后台-开发商/物业](AIOperationSystem-Tenant)
-    * [管理后台-平台](AIOperationSystem-Platform)
+    * [管理后台-平台方](AIOperationSystem-Platform)
 * 华贵生活
     * [华贵生活](App-User)
     * [华贵生活商家端](App-Shop)
