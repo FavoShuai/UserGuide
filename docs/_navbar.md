@@ -1,6 +1,6 @@
 * [首页](index)
 * AI小区驾驶舱指挥平台
-    * [A方案    ](AIOperationSystem-WebA)
+    * [A方案&nbsp;&nbsp;&nbsp;](AIOperationSystem-WebA)
     * [B方案    ](AIOperationSystem-WebB)
     * [C方案    ](AIOperationSystem-WebC)
     * [D方案    ](AIOperationSystem-WebD)
