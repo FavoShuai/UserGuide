@@ -19,5 +19,7 @@
     * [华贵生活商家端](App-Shop)
     * [华贵生活物业端](App-Property)
 * [中南直供平台](DirectSupply-Manage)
-* [车位销控系统](SalesControlPlatform)
+* 车位销控系统
+    *[APP端](SalesControlPlatform-App)
+    *[后台管理](SalesControlPlatform)
 * [演示流程与关联内容](Demo)
