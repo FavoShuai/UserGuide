@@ -1,8 +1,8 @@
 * [首页](index)
 * AI小区驾驶舱指挥平台
-    * [A方案&nbsp;&nbsp;&nbsp;](AIOperationSystem-WebA)
-    * [B方案    ](AIOperationSystem-WebB)
-    * [C方案    ](AIOperationSystem-WebC)
+    * [A 方 案&nbsp;&nbsp;&nbsp;](AIOperationSystem-WebA)
+    * [B 方 案&nbsp;&nbsp;](AIOperationSystem-WebB)
+    * [&nbsp;C方案&nbsp;&nbsp;](AIOperationSystem-WebC)
     * [D方案    ](AIOperationSystem-WebD)
     * [E方案    ](AIOperationSystem-WebE)
     * [F方案    ](AIOperationSystem-WebF)
@@ -18,6 +18,8 @@
     * [华贵生活](App-User)
     * [华贵生活商家端](App-Shop)
     * [华贵生活物业端](App-Property)
-* [中南直供平台](DirectSupply)
+* 中南直供平台
+    * [小程序](DirectSupply-Wechat)
+    * [管理后台](DirectSupply-Manage)
 * [车位销控系统](SalesControlPlatform)
 * [演示流程与关联内容](Demo)
