@@ -1,12 +1,14 @@
 # 中南直供平台V1.0.0后台
 ## 1 用户登录
 ### &nbsp;&nbsp;1.1访问登录
- [中南直供平台管理后台](http://yshop-admin.zgzhongnan.com)
-    访问页面，在输入框内输入用户名、密码和验证码即可登录进入后台管理
-![login](http://video.zgzhongnan.com/yshop_document/DirectSupplyManage_login.png)
+&nbsp;&nbsp;&nbsp;[中南直供平台管理后台](http://yshop-admin.zgzhongnan.com)
+
+     访问页面，在输入框内输入用户名、密码和验证码即可登录进入后台管理
+
+&nbsp;&nbsp;&nbsp;![login](http://video.zgzhongnan.com/yshop_document/DirectSupplyManage_login.png)
 ### &nbsp;&nbsp;1.2进入中南直供平台后台管理界面
     功能描述：通过数据可实时查看到会员总数、订单总数、总金额、今日订单数等参数
-==（截图）==
+![login](http://video.zgzhongnan.com/yshop_document/DirectSupplyManage_login.png)
 ## 2 商品管理
 ### &nbsp;&nbsp;2.1商品分类
     功能描述：商品分类可新增可修改可删除可导出功能
