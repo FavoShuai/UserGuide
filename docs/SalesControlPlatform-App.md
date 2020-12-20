@@ -1,0 +1,52 @@
+# 中南信息车位销控系统APP端
+---
+## &nbsp;&nbsp;&nbsp;1.用户登录
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1&nbsp;用户通过华贵生活APP底部导航“车位”按钮，进入在线选车位页面
+    ==(截图)==
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2&nbsp;点击顶部图片中的预定车位，进入在线选车位主页
+    ==(截图)==
+## &nbsp;&nbsp;&nbsp;2.车位展示
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1&nbsp;点击在线选车位主页的立即进入，可看到小区下所有区域的车位详情
+    ==(截图)==
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2&nbsp;滑动顶部区域栏，可切换区域，同时，该区域下的车位情况也随之变动。每个车位都包含了编号、价格、面积，用户可根据需要点击查看心仪的车位
+    ==(GIF)==
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3&nbsp;点击顶部最右边的“查看位置”，可看到车库平面图，可以缩小、放大、保存到手机
+    ==(GIF)==
+## &nbsp;&nbsp;&nbsp;3.车位详情 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1&nbsp;点击具体车位，进入车位详情后可看到该车位的区域平面图、车位编号、车位属性、车位面积、车位位置、车位状态、车位原价、折扣价、折后总价等具体信息，区域平面图支持缩小、放大、保存至手机
+
+<html>
+<video src="" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+</html>
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2&nbsp;支持电话咨询客服或者把心仪车位加入购物车，加入后会有提示，可前往购物车查看，如果重复点击添加购物车，会提示请勿重复添加
+
+<html>
+<video src="" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+</html>
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3&nbsp;点击购物车，可以进入购物车查看加入的心仪车位
+    ==(GIF)==
+## &nbsp;&nbsp;&nbsp;4.提交订单 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1&nbsp;选择购物车里心仪车位，点击预订，即可提交订单
+    ==(GIF)==
+## &nbsp;&nbsp;&nbsp;5.填写订单信息,提交订单
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1&nbsp;提交预订订单后，需要完成信息登记，包含阅读并确认在线选车位须知、个人身份信息填写，待全部填写完后才能点击提交，若缺失一个信息均无法提交，填写完后提交即生成订单
+
+<html>
+<video src="" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+</html>
+
+## &nbsp;&nbsp;&nbsp;6.查看生成的订单详情 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1&nbsp;在订单列表里点击已生成的订单，进入订单详情，可查看订购车位的基本情况、价格情况、以及生效和失效日期，并且会附带提示需在失效日期前完成线下付款，若延迟，订单则失效，需要再次预订    
+    ==(GIF)==
+## &nbsp;&nbsp;&nbsp;7.底部导航栏说明
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1&nbsp;选车位
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可查看到小区区域下的所有车位信息
+    ==(截图)==
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2&nbsp;购物车
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;快速查看到已加入购物车的订单
+    ==(截图)==
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.3&nbsp;订单
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可查看到已提交的订单
+    ==(截图)==
